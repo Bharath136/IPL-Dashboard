@@ -1,0 +1,21 @@
+.bg-container {
+  padding: 80px 50px;
+}
+@media (max-width: 768px) {
+  .bg-container {
+    padding: 20px 10px;
+  }
+}
+
+.team-banner {
+  width: 100%;
+}
+
+.latest-match-heading {
+  font-size: 20px;
+}
+@media (max-width: 768px) {
+  .latest-match-heading {
+    font-size: 12px;
+  }
+}
